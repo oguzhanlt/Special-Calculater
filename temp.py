@@ -2,7 +2,7 @@
 k = input('Enter a number, I will make my calculation below that number')
 k = int(k)
 a = input('Enter a number to see its multiples below first number')
-b = input('Enter a number to see its multiples below first number')
+b = input('Enter one more number to see its multiples below first number')
 a = int(a)
 b = int(b)
 x= range(1, k, 1)
